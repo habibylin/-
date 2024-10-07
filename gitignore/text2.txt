@@ -1,0 +1,5 @@
+git init nnm`
+ git add *.c
+ git add LICENSE
+ git commit -m 'Initial project version'
+    ABOBA
